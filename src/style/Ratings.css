@@ -1,0 +1,13 @@
+.rating {
+    font-size: 24px;
+    cursor: pointer;
+  }
+  
+  .star {
+    margin-right: 5px;
+  }
+  
+  .active {
+    color: gold;
+  }
+  
